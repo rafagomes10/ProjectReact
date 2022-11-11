@@ -1,0 +1,23 @@
+.esquerda, .direita {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.direita {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.bi-star-fill {
+    margin-top: 25px;
+}
+
+.botao {
+    margin-top: 50px;
+}
+
+
+img {
+    width: 400px;
+    height: 400px;
+}
