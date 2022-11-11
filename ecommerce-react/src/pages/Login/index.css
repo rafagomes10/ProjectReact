@@ -1,0 +1,25 @@
+.box-login{
+    margin-top: 70px;
+    width: 300px;
+    margin: auto;
+    padding: 25px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+}
+
+#btn-entrar {
+    margin-top: 20px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 0;
+    padding: 8;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+    background-color: blue;
+    color: #fff;
+}
+
+input {
+    width: 100%;
+}

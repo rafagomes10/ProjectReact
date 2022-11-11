@@ -1,0 +1,11 @@
+button {
+    min-width: 90px;
+    border: 0px;
+    background-color: blueviolet;
+    padding: 5px;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: crimson;
+}
