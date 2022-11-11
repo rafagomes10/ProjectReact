@@ -1,0 +1,22 @@
+.BotaoFinalizar{
+    display:flex;
+    justify-content: center;
+    width: 300px;
+    margin: auto;
+    flex-direction: column;
+}
+
+.vazio {
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+h3, i {
+    color: #6c757d;
+    
+}
+
+.vazio i {
+    font-size: 4rem;
+}

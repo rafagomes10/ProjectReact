@@ -1,0 +1,10 @@
+li a:hover:not(.active){
+    background-color: #37474F;
+    border-radius: 6px;
+    transition: 0.6s;
+}
+
+
+#pagina-principal {
+    width: 100%;
+}

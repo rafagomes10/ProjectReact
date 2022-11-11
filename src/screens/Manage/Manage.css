@@ -1,0 +1,28 @@
+.card-box {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.posicao {
+    width: 100%;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.gerenciar {
+    padding: 1.2em;
+    border: 2px solid rgb(71, 55, 55);
+    background-color: #E0E0E0;
+    margin: 0;
+    text-align: center;
+    width: 35rem;
+    height: 11.5rem;
+    
+}
+/*#root {
+    background-color: #E0E0E0;
+    ;
+}
